@@ -1,3 +1,5 @@
-# pytorch-practice
+# Pytorch Practice
+## Dataset Used
+For linear regression the Real Estate Price Prediction dataset is used from KAGGLE : https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction
 
-For linear regression the Boston Housing dataset is used from KAGGLE : https://www.kaggle.com/code/shreayan98c/boston-house-price-prediction/data
+### Disclaimer: Used for learning purpose only. 
